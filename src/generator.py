@@ -3,7 +3,7 @@ from os.path import isdir, isfile
 from xml.etree import ElementTree
 from json import loads
 import re
-from channels_nc_id_generator import ChannelNcIdTemplate
+from channel_nc_id_generator import ChannelNcIdTemplate
 
 DEFAULT_CONFIG = 'config_gen.json'
 

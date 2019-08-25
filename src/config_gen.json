@@ -5,7 +5,7 @@
       "../data/test1.xml",
       "../data/test2.xml"
     ],
-    "output": "channel_id_gen.py",
+    "output": "../gen/channel_id_gen.py",
     "max_dir_depth": 3,
     "parent_tag": "appointment"
   }
