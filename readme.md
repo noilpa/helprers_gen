@@ -1,0 +1,2 @@
+- cd src
+- python3 ../data/test1.xml ../data/test2.xml
